@@ -1,7 +1,7 @@
 package n1;
 
 
-public class Cauculos {
+public class Calculos {
     public String resposta;
     private int numero1;
     private int numero2;
