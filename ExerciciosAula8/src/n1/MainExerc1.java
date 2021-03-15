@@ -14,7 +14,7 @@ import java.util.Scanner;
 public class MainExerc1 {
     
     public static void main(String[] args) {
-    Calculos c = new Calculos();
+    Cauculos c = new Cauculos();
     
     Scanner ler = new Scanner(System.in);
         int opcao;
