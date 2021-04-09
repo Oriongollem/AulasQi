@@ -17,7 +17,7 @@ public class MainExerc3 {
         Scanner ler = new Scanner(System.in);
         
         System.out.println("*********** COMPARAÇÂO DE IDADE COM TEMPO ***********");
-        System.out.println("Digite o nome das pessoas das quais que comparar a altura: ");
+        System.out.println("Digite o nome das pessoas das quais quer comparar a altura: ");
         p.nome1 = ler.nextLine();
         p.nome2 = ler.nextLine();
         
